@@ -1,0 +1,64 @@
+body
+{
+    background-image: url("F:/html/HTMLCSS/Magic-Cake/images/stardust.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0em;
+}
+#i1 img
+{
+    padding-left: 50px;
+    padding-top: 5px;
+}
+#i2 a
+{
+    color: white;
+    text-decoration: none;
+    font-size:15px;
+    padding-left: 4px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header
+{
+    text-align: center;
+    background-color: rgb(205,116,116);
+    padding-bottom: 0.5%;
+}
+section
+{
+     background-image:url("F:/html/HTMLCSS/Magic-Cake/images/crossword.png");
+    margin-left:500px;
+    margin-right:300px;
+    margin-bottom:30px;
+    height:680px;
+    width: 370px;
+    margin-top: 50px;
+
+}
+h2
+{
+    padding-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8fbcbc;
+}
+form
+{
+    padding-left: 35px;
+}
+.bold{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1em;
+}
+.c1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    font-size:12px;
+}
+.box
+{
+    margin-top:4px;
+}

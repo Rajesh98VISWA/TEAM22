@@ -1,0 +1,68 @@
+.one{
+ background-image:url(bg.jpg);
+  color:white;
+  padding-top:2px;
+  background-size:cover;
+  border-top:2px solid #ff1a53;
+  
+}
+.layer{
+  background-color:rgba(0,0,0,0.7);
+  padding:0.05px;
+}
+.two,.four{
+  padding:15px 90px;
+}
+.three{
+  padding:20px 90px;
+  background-color:#ff1a53;
+  color:white;
+}
+.five{
+  padding:15px 90px;
+  background-color:#404040;
+  color:white;
+  font-size:12px;
+}
+.six{
+  padding-bottom:20px;
+  word-spacing:1em;
+}
+#size{
+  font-size:13px;
+}
+#font{
+  font-size:10px;
+}
+
+p{
+  font-size:13px;
+}
+ul{
+  font-size:13px;
+  padding-left:17px;
+}
+h3{
+  font-size:18px;
+}
+h2{
+  font-size:16px;
+}
+a:link{
+  color:#00bfff;
+text-decoration:none;
+  border-bottom:2px solid #00bfff;    
+  
+}
+a1{
+  color:#00bfff;
+}
+
+body{
+top:50px;
+left:100px;
+margin:0px;
+}
+
+
+

@@ -1,0 +1,31 @@
+<!--without using onclick in input attribute -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      p{
+        padding:10px
+      }
+    </style>
+  </head>
+  <p id="para">WHEN YOU CLICK ME I WILL CHANGE MY BACKGROUND COLOR</p>  
+  
+  <input type="radio" name="color" id="red">Red
+  <input type="radio" name="color" id="green">Green
+  <input type="radio"  name="color" id="blue">Blue
+  
+<script>
+document.getElementById("red").onclick =  function()  {
+   document.getElementById("para").style.background  = "red";
+}
+document.getElementById("green").onclick =  function()  {
+   document.getElementById("para").style.background  = "green";
+}
+document.getElementById("blue").onclick =  function()  {
+   document.getElementById("para").style.background  = "blue";
+}
+
+</script>
+
+
+  </html>
